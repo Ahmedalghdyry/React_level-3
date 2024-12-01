@@ -1,0 +1,44 @@
+/* =============
+ table of contents
+===============
+
+ 
+1. ul class .flex
+      1.1 sub HTML + css + JavaScript
+      1.2 sub sub of CSS
+
+
+ 
+ 
+*/
+
+ 
+/* ===============
+   1.  ul class .flex
+================ */
+
+
+ 
+
+
+
+
+.main-list {
+  padding: 10px 20px;
+  font-size: 19px;
+  position: relative;
+}
+
+.main-link {
+  padding: 8px 15px;
+}
+
+.main-link:hover,  .main-link.active{
+  color: cyan;
+  box-shadow: 0 0 5px cyan;
+  border-radius: 5px;
+}
+
+/* =======================================
+   1.1 sub HTML + css + JavaScript
+======================================== */
